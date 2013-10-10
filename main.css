@@ -1,0 +1,30 @@
+
+
+h1 {
+	margin-left:40px;
+}
+
+.infinite-agenda li {
+	background-color:peachpuff;
+	width:100%;
+	height:300px;
+	display:block;
+	margin:20px;
+	padding:20px;
+}
+
+
+
+.btn {
+	margin-left:10px;
+}
+
+.edittext {
+	display:none;
+	/*position:absolute;*/
+}
+
+.statictext {
+	/*display:none;*/
+	position:absolute;
+}
